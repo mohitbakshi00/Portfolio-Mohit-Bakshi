@@ -17,16 +17,7 @@ const About = () => {
         Hello! I'm Mohit, a software developer with a passion for elegant solutions. I honed my skills and gained invaluable experience during my Amazon SDE internship. At Amazon, I thrived in a fast-paced environment, collaborating with diverse teams on challenging projects. This internship not only refined my technical abilities but also instilled values of teamwork, innovation, and customer-centricity. With a solid foundation in programming and a focus on frontend and backend development, I excel in crafting efficient code and optimizing performance. My strong communication skills bridge the gap between technical complexities and business goals. Beyond coding, I'm a creative thinker, avid problem solver, and continuous learner. I'm excited to contribute my expertise and passion to new projects. Let's connect and code a brighter future together!
         </p>
 
-        <br />
-
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
+     
       </div>
     </div>
   );
