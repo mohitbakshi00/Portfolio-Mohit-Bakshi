@@ -48,8 +48,7 @@ const Projects = () => {
             <img src={src} alt="" className="max-h-[300px]  md:max-h-[300px] w-full px-6 object-cover rounded-xl border-x-black" />
             <div className="flex mx-auto">
 
-              <a href={link} target="_blank"><button className="text-white bg-gradient-to-b from-pink-500 to-red-500 px-6 py-2 my-4 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
-                View   </button></a>
+              <a href={link} target="_blank" rel="noreferrer" ><button className="text-white bg-gradient-to-b from-pink-500 to-red-500 px-6 py-2 my-4 mx-auto flex items-center rounded-md hover:scale-110 duration-300">View</button></a>
 
 
             </div>
