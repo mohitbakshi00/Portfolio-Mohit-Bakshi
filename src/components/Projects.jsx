@@ -18,19 +18,19 @@ const Projects = () => {
       id: 2,
       src: courseWebsite,
       title: "Course Website",
-      link:"eiugfk,whsdohwsyd. egulwupeiugvda.gvs,kfjww.gudy.gavcgsvdjmejeeyusfjgcdguajgsc",
+      link:"https://magical-sunshine-75560b.netlify.app/",
     },
     {
       id: 3,
       src: technologyTrends,
       title: "Technology Trends Analysis in IT Sector",
-      link:"https://github.com/mohitbakshi00/technology-usage-trends-analysis",
+      link: "https://github.com/mohitbakshi00/technology-usage-trends-analysis",
     },
     {
       id: 4,
       src: booking,
       title: "Booking App",
-      link:"eiugfk,whsdohwsyd. egulwupeiugvda.gvs,kfjww.gudy.gavcgsvdjmejeeyusfjgcdguajgsc",
+      link:"https://magical-sunshine-75560b.netlify.app/",
     }
   ]
 
