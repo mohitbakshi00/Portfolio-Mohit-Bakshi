@@ -12,13 +12,13 @@ const Projects = () => {
       id: 1,
       src: foodOrderingApp,
       title: "Food Ordering Website",
-      link:"https://magical-sunshine-75560b.netlify.app/",
+      link: "https://magical-sunshine-75560b.netlify.app/",
     },
     {
       id: 2,
       src: courseWebsite,
       title: "Course Website",
-      link:"https://magical-sunshine-75560b.netlify.app/",
+      link: "https://magical-sunshine-75560b.netlify.app/",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const Projects = () => {
       id: 4,
       src: booking,
       title: "Booking App",
-      link:"https://magical-sunshine-75560b.netlify.app/",
+      link: "https://magical-sunshine-75560b.netlify.app/",
     }
   ]
 
@@ -47,13 +47,13 @@ const Projects = () => {
 
             <img src={src} alt="" className="max-h-[300px]  md:max-h-[300px] w-full px-6 object-cover rounded-xl border-x-black" />
             <div className="flex mx-auto">
-            <button className="text-white bg-gradient-to-b from-pink-500 to-red-500 px-6 py-2 my-4 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
-             
-              <a href={link} target="_blank"> View</a>
-            </button>
-           
+
+              <a href={link} target="_blank"><button className="text-white bg-gradient-to-b from-pink-500 to-red-500 px-6 py-2 my-4 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
+                View   </button></a>
+
+
             </div>
-           
+
           </div>
         ))}
       </div>
