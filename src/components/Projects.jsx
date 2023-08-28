@@ -18,7 +18,7 @@ const Projects = () => {
       id: 2,
       src: courseWebsite,
       title: "Course Website",
-      about:"eiugfk,whsdohwsyd. egulwupeiugvda.gvs,kfjww.gudy.gavcgsvdjmejeeyusfjgcdguajgsc",
+      link:"eiugfk,whsdohwsyd. egulwupeiugvda.gvs,kfjww.gudy.gavcgsvdjmejeeyusfjgcdguajgsc",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const Projects = () => {
       id: 4,
       src: booking,
       title: "Booking App",
-      about:"eiugfk,whsdohwsyd. egulwupeiugvda.gvs,kfjww.gudy.gavcgsvdjmejeeyusfjgcdguajgsc",
+      link:"eiugfk,whsdohwsyd. egulwupeiugvda.gvs,kfjww.gudy.gavcgsvdjmejeeyusfjgcdguajgsc",
     }
   ]
 
